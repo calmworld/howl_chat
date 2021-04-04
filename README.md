@@ -8,7 +8,8 @@ Node, React, Socket.io, CSS
 
 
 # Chat Home
-<img align="center" src="/assets/home_chat.png" width="350" height="500">
-
+<p align="center">
+    <img src="/assets/home_chat.png" width="350" height="500">
+</p>
 # Chat Room
 <img src="/assets/chat_pic.png" width="350" height="500">
