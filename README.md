@@ -4,11 +4,13 @@ A web chat application where a user can create chat rooms and then send the link
 
 # Tech Used
 
-Node, React, Socket.io
+Node, React, Socket.io, CSS
 
 
-<!-- ![Chat Home](/assets/home_chat.png)
-![Chat Room](/assets/chat_pic.png) -->
+# Chat Home
+<div text-align="center">
+<img src="/assets/home_chat.png" width="350" height="500">
+</div>
 
-<img src="/assets/home_chat.png" width="350" height="480">
-<img src="/assets/chat_pic.png" width="350" height="480">
+# Chat Room
+<img src="/assets/chat_pic.png" width="350" height="500">
