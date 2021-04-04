@@ -7,4 +7,5 @@ A web chat application where a user can create chat rooms and then send the link
 Node, React, Socket.io
 
 
-![Howl Chat](/assets/chat_pic.png)
+![Chat Home](/assets/home_chat.png)
+![Chat Room](/assets/chat_pic.png)
