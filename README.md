@@ -8,4 +8,4 @@ Node, React, Socket.io
 
 
 ![Chat Home](/assets/home_chat.png|s=250)
-![Chat Room](/assets/chat_pic.png|width="200" height="400")
+![Chat Room](/assets/chat_pic.png|width=200px)
