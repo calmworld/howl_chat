@@ -10,5 +10,5 @@ Node, React, Socket.io
 <!-- ![Chat Home](/assets/home_chat.png)
 ![Chat Room](/assets/chat_pic.png) -->
 
-<img src="/assets/home_chat.png" width="250" height="380">
-<img src="/assets/chat_pic.png" width="250" height="280">
+<img src="/assets/home_chat.png" width="350" height="480">
+<img src="/assets/chat_pic.png" width="350" height="480">
