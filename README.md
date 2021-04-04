@@ -8,4 +8,3 @@ Node, React, Socket.io
 
 
 ![Howl Chat](/assets/chat_pic.png)
-Format: ![Alt Text](url)
