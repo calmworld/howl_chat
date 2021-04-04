@@ -27,7 +27,7 @@
 }
 
 .new-message-input-field {
-    height: 200px;
+    height: 100px;
     max-height: 50%;
     font-size: 20px;
     padding: 8px 12px;
@@ -46,20 +46,23 @@
 .my-message {
     background-color: rgb(0, 132, 255);
     margin-left: auto;
+    border-radius: 20px;
 }
 
 .received-message {
     background-color: #3f4042;
     margin-right: auto;
+    border-radius: 20px;
 }
 
 .send-message-button {
     font-size: 28px;
     font-weight: 600;
     color: white;
-    background: #31a24c;
+    background: #8f31a2;
     padding: 24px 12px;
     border: none;
+    border-radius: 20px;
 }
 
 .messages-container, .new-message-input-field, .send-message-button {
