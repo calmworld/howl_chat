@@ -7,5 +7,5 @@ A web chat application where a user can create chat rooms and then send the link
 Node, React, Socket.io
 
 
-![Chat Home](/assets/home_chat.png =250x250)
-![Chat Room](/assets/chat_pic.png width="200" height="400")
+![Chat Home](/assets/home_chat.png s=250x250)
+![Chat Room](/assets/chat_pic.png | width="200" height="400")
