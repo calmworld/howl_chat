@@ -16,3 +16,14 @@ Node, React, Socket.io, CSS
 <p align="center">
     <img src="/assets/chat_pic.png" width="350" height="550">
 </p>
+
+
+# To run Backend server
+- cd into api folder and in your console run ```npm install```
+- run ```node server.js```
+- open ```http://localhost:4000``` on your browser
+
+# To run Frontend 
+- cd into client folder and in your console run ```npm install```
+- run ```npm start``` to start react app
+- open ```http://localhost:3000``` on your browser
